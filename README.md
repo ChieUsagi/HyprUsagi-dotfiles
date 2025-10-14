@@ -3,19 +3,23 @@ Hyprusagi - Dotfiles
 
 ## Primera instalacion
 
-  * Chaotic AUR
+  * Paquetes basicos:
 
+    ````
+    sudo pacman-S kitty zsh git curl flatpack
+    ````
+
+  * Chaotic AUR:
     ````
     sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com
     sudo pacman-key --lsign-key 3056513887B78AEB
     ````
-    
     ````
     sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'
     sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
     ````
     
-    Agregar al final del archivo `/etc/pacman.conf`
+    Agregar al final del archivo `/etc/pacman.conf`:
     
     ````
     [chaotic-aur]
@@ -27,18 +31,17 @@ Hyprusagi - Dotfiles
     ````
     sudo pacman -Syu
     ````
-    
     ````
     sudo pacman -S pamac
     ````
     
-  * Flathub Remote
+  * Flathub Remote:
    
     ````
     flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
     ````
 
-  * Paru AUR Helper
+  * Paru AUR Helper:
 
     ````
     sudo pacman -S --needed base-devel
@@ -47,7 +50,7 @@ Hyprusagi - Dotfiles
     makepkg -si
     ````
 
-  * Nyarch Updater
+  * Nyarch Updater:
 
     ````
     cd /tmp
@@ -55,7 +58,7 @@ Hyprusagi - Dotfiles
     flatpak install nyarchupdater.flatpak
     ````
 
-  * Nyarch Script
+  * Nyarch Script:
 
     ````
     cd /tmp
@@ -65,26 +68,45 @@ Hyprusagi - Dotfiles
 
 ## Oh My ZSH
 
-  * Instalacion
+  * Instalacion:
 
     ````
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     ````
 
-  * Plugins
+  * Plugins:
 
     ````
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
     ````
-    
     ````
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
     ````
-
     ````
     git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
     ````
+  
+  * En el archivo `~/.zshrc` cambiar:
 
+    ````
+    plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-history-substring-search)
+    ````
+    ````
+    ZSH_THEME="awesomepanda"
+    ````
+    
+    Al final agregar:
+    
+    ````
+    PROMPT='%F{cyan}%n%f_%F{cyan}%m %F{green}%~ %F{magenta}> '
+    ````
+
+## Paquetes necesarios
+    
+  ````
+  sudo pacman-S waybar swwww swaync swayosd-git polkit-gnome nwg-drawer clipse hypridle hyprlock hiprshot noto-fonts
+  ````
+    
     
     
 
