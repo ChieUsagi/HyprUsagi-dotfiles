@@ -1,5 +1,5 @@
 <h1 align="center">
-Hyprusagi - Dotfiles
+HyprUsagi - Dotfiles
 
 ## Primera instalacion
 
@@ -102,13 +102,7 @@ Hyprusagi - Dotfiles
     ````
 
 ## Paquetes necesarios
-    
-  ````
-  sudo pacman-S waybar swwww swaync swayosd-git polkit-gnome nwg-drawer clipse hypridle hyprlock hiprshot noto-fonts
-  ````
-    
-    
-    
-
-  
-    
+ 
+   ````
+   sudo pacman-S swaync polkit-gnome waybar libastal-io-git libastal-git aylurs-gtk-shell-git swwww nwg-drawer clipse hypridle hyprlock swayosd-git flameshot noto-fonts ttf-jetbrains-mono-nerd
+   ````
