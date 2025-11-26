@@ -1,0 +1,75 @@
+* {
+    font-family: JetBrainsMonoNerdFont, 
+    Font Awesome, 
+    Roboto, 
+    Helvetica, 
+    Arial, 
+    sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+window#waybar {
+    background-color: transparent;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+  border: none;
+}
+
+tooltip {
+  background: rgba(0, 46, 51, 0.9);
+  border: 2px  solid rgba(60,230,250,1);
+}
+
+/* you can set a style on hover for any module like this */
+
+#workspaces,
+#clock,
+#hardware,
+#custom-pacman,
+#window,
+#control,
+#energy,
+#tray,
+#language {
+    padding:0 8px;
+    background: rgba(0, 46, 51, 0.6);
+    border: 2px solid rgba(60,230,250,1);
+}
+
+#cpu,
+#memory,
+#temperature,
+#idle_inhibitor,
+#power-profiles-daemon,
+#network,
+#pulseaudio,
+#custom-notification {
+    padding: 0 8px;
+}
+
+#workspaces button {
+    background: transparent;
+}
+
+#workspaces button.active {
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces button:hover {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
