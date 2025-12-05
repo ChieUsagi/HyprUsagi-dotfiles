@@ -1,12 +1,40 @@
 <h1 align="center">
 HyprUsagi - Dotfiles
 
+## 
+
+  * 
+    ````
+    pacman -S pipewire wireplumber pipewire-pulse pipewire-alsa
+    
+    systemctl --user enable pipewire wireplumber pipewire-pulse pipewire-alsa
+    ````
+  * 
+    `/etc/mkinitcpio.comf`
+    
+    ````
+    mkinitcpio -p linux
+    ````
+  * 
+    `/etc/default/grub`
+    
+    ````
+    grub-mkconfig /boot/grub/grub.cfg
+    ````
+  * 
+    `/etc/sudoers`
+
+    ````
+    Defaults env_reset,pwfeedback
+    ````
+    
+
 ## Primera instalacion
 
   * Paquetes basicos:
 
     ````
-    sudo pacman-S kitty zsh git curl flatpack
+    sudo pacman -S firefox kitty zsh git curl fastfetch flatpack plymouth
     ````
 
   * Chaotic AUR:
@@ -80,16 +108,13 @@ HyprUsagi - Dotfiles
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
     ````
     ````
-    git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-    ````
-    ````
     git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
     ````
   
   * En el archivo `~/.zshrc` cambiar:
 
     ````
-    plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-history-substring-search)
+    plugins=(git zsh-syntax-highlighting zsh-history-substring-search)
     ````
     ````
     ZSH_THEME="awesomepanda"
@@ -104,5 +129,5 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman-S swaync polkit-gnome waybar libastal-io-git libastal-git aylurs-gtk-shell-git swwww nwg-drawer clipse hypridle hyprlock swayosd-git flameshot noto-fonts ttf-jetbrains-mono-nerd
+   sudo pacman-S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swwww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode
    ````
