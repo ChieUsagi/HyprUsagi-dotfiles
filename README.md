@@ -129,5 +129,5 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman-S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swwww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode
+   sudo pacman-S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swwww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib
    ````
