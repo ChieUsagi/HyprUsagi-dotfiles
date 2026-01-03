@@ -60,7 +60,7 @@ HyprUsagi - Dotfiles
     sudo pacman -Syu
     ````
     ````
-    sudo pacman -S pamac
+    sudo pacman -S pamac-aur visual-studio-code-bin
     ````
     
   * Flathub Remote:
@@ -129,5 +129,16 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman-S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swwww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib reflector
+   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib reflector arch-update 
    ````
+
+   ````
+   chmod +x ~/.config/hypr/wallpaper-rotator.sh
+   ````
+
+   ````
+   cp -r /etc/xdg/waybar/ ~/.config/waybar/
+   cp -r /etc/xdg/swaync/ ~/.config/swaync/
+   cp -r /etc/xdg/swayosd/ ~/.config/swayosd/
+   ````
+
