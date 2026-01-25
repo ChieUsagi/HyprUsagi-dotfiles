@@ -5,16 +5,18 @@
     "width": 1910, // Waybar width
     "spacing": 4, // Gaps between modules (4px)
 
+
     // Choose the order of the modules
     "modules-left": [
         "group/hardware",
         "gamemode",
         "custom/launcher",
+        "hyprland/workspaces#taskbar",
         "hyprland/window",
         "hyprland/submap"
     ],
     "modules-center": [
-        "hyprland/workspaces"
+        "hyprland/workspaces#ws"
     ],
     "modules-right": [
         "tray",
@@ -27,7 +29,7 @@
 
     // Modules configuration
 
-    "hyprland/workspaces": {
+    "hyprland/workspaces#ws": {
         "on-scroll-up": "hyprctl dispatch workspace e-1",
         "on-scroll-down": "hyprctl dispatch workspace e+1",
         "show-special": true,
@@ -60,6 +62,20 @@
         "tooltip": false,
         "on-click": "nwg-drawer -mb 10 -ml 10 -mr 10 -mt 10 -nocats -closebtn right"
     },
+
+    "hyprland/workspaces#taskbar": {
+        "format": "{windows}",
+        "active-only": true,
+        "hide-active": true,
+        "workspace-taskbar": {
+        "enable": true,
+        "update-active-window": true,
+        "format": "{icon}",
+        "icon-size": 20,
+        "on-click-window": "~/.config/hypr/focus-window.sh {address} {button}"
+        }
+    },
+
     "custom/pacman": {
         "format": "{} <span font='12'>󰅢</span> ",
         "interval": 3600,                     
@@ -68,6 +84,7 @@
         "on-click": "kitty --class updates arch-update",
         "tooltip": false
     },
+    
     "gamemode": {
         "format": "{glyph}",
         "glyph": "",

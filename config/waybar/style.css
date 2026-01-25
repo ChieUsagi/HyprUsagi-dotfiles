@@ -20,6 +20,11 @@ window#waybar.empty #window {
   border: none;
 }
 
+window#waybar.empty #workspaces.taskbar {
+  background-color: transparent;
+  border: none;
+}
+
 tooltip {
   background: rgba(0, 46, 51, 0.9);
   border: 2px  solid rgba(60,230,250,1);
@@ -33,6 +38,7 @@ tooltip {
 #apps,
 #window,
 #custom-launcher,
+#taskbar,
 #custom-pacman,
 #gamemode,
 #control,
@@ -61,21 +67,27 @@ menu {
     padding: 0 8px;
 }
 
-#workspaces button {
+#workspaces.ws button {
     border: transparent;
     background: transparent;
 }
 
-#workspaces button.active {
+#workspaces.ws button.active {
     border: transparent;
     border-radius: 999px;
     box-shadow: 0px 0px 8px 4px #64727D inset;
 }
 
-#workspaces button:hover {
+#workspaces.ws button:hover {
     border: transparent;
     border-radius: 999px;
     box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.taskbar button.active {
+    border: transparent;
+    background: transparent;
+    box-shadow: transparent
 }
 
 @keyframes blink {
