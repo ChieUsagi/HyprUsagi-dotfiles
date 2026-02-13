@@ -129,7 +129,7 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib reflector arch-update qpwgraph obs-vkcapture-git appimagelauncher 
+   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts ttf-jetbrains-mono-nerd swww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib reflector qpwgraph appimagelauncher 
    ````
 
    ````
