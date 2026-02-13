@@ -60,7 +60,7 @@ HyprUsagi - Dotfiles
     sudo pacman -Syu
     ````
     ````
-    sudo pacman -S pamac-aur visual-studio-code-bin
+    sudo pacman -S pamac visual-studio-code-bin
     ````
     
   * Flathub Remote:
@@ -133,7 +133,10 @@ HyprUsagi - Dotfiles
    ````
 
    ````
-   chmod +x ~/.config/hypr/wallpaper-rotator.sh
+   chmod +x ~/.config/hypr/wallpaper-rotator-1.sh
+   chmod +x ~/.config/hypr/wallpaper-rotator-2.sh
+   chmod +x ~/.config/hypr/focus-window.sh
+   chmod +x ~/.config/hypr/update.sh
    ````
 
    ````
