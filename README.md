@@ -133,15 +133,15 @@ HyprUsagi - Dotfiles
    ````
 
    ````
+   cp -r /etc/xdg/waybar/ ~/.config/waybar/
+   cp -r /etc/xdg/swaync/ ~/.config/swaync/
+   cp -r /etc/xdg/swayosd/ ~/.config/swayosd/
+   ````
+
+   ````
    chmod +x ~/.config/hypr/wallpaper-rotator-1.sh
    chmod +x ~/.config/hypr/wallpaper-rotator-2.sh
    chmod +x ~/.config/hypr/focus-window.sh
    chmod +x ~/.config/hypr/update.sh
-   ````
-
-   ````
-   cp -r /etc/xdg/waybar/ ~/.config/waybar/
-   cp -r /etc/xdg/swaync/ ~/.config/swaync/
-   cp -r /etc/xdg/swayosd/ ~/.config/swayosd/
    ````
 
