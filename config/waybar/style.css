@@ -20,7 +20,7 @@ window#waybar.empty #window {
   border: none;
 }
 
-window#waybar.empty #workspaces.taskbar {
+window#waybar.empty #workspaces.tb {
   background-color: transparent;
   border: none;
 }
@@ -67,24 +67,52 @@ menu {
     padding: 0 8px;
 }
 
-#workspaces.ws button {
+#workspaces.ws1 button {
     border: transparent;
     background: transparent;
 }
 
-#workspaces.ws button.active {
+#workspaces.ws1 button.active {
     border: transparent;
     border-radius: 999px;
     box-shadow: 0px 0px 8px 4px #64727D inset;
 }
 
-#workspaces.ws button:hover {
+#workspaces.ws1 button:hover {
     border: transparent;
     border-radius: 999px;
     box-shadow: 0px 0px 8px 4px #64727D inset;
 }
 
-#workspaces.taskbar button.active {
+#workspaces.ws2 button {
+    border: transparent;
+    background: transparent;
+}
+
+#workspaces.ws2 button.active {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.ws2 button:hover {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.tb button {
+    border: transparent;
+    background: transparent;
+}
+
+#workspaces.tb button.active {
+    border: transparent;
+    background: transparent;
+    box-shadow: transparent
+}
+
+#workspaces.tb button:hover {
     border: transparent;
     background: transparent;
     box-shadow: transparent
