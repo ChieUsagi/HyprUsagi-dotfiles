@@ -1,0 +1,446 @@
+2026/01/25 19:54:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/25 19:54:40 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/25 19:59:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/25 19:59:39 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/25 19:59:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/25 20:08:15 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/25 20:08:15 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 10:12:45 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 10:12:45 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 10:27:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 10:27:39 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 10:34:38 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:40:36 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:40:36 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 11:41:22 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:41:22 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 11:42:36 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:42:36 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 11:43:58 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:43:58 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 11:45:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:45:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 11:46:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 11:46:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 12:01:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 12:01:51 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 12:04:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 12:04:09 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 12:07:55 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 12:07:55 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/26 12:09:12 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/26 12:09:12 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 10:49:36 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 10:49:36 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 11:16:10 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 11:16:10 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 11:21:02 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 11:21:02 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 11:24:50 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 11:24:50 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 11:26:06 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 11:58:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 11:58:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 12:03:06 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 12:03:06 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 12:22:22 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 12:22:22 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/28 12:38:18 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/28 12:38:18 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/30 16:15:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/30 16:15:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/01/30 19:17:14 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/31 18:55:46 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/01/31 18:55:46 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/03 11:31:40 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/03 11:31:40 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/05 11:00:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/05 11:00:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 14:32:00 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 14:32:00 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 14:46:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 14:46:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 14:47:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 14:47:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 14:56:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 14:56:09 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 14:58:53 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 14:58:53 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 15:00:17 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 15:00:17 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 15:01:13 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 15:01:13 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 15:02:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 15:02:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 15:03:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 15:03:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 16:12:54 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 16:12:54 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 16:13:12 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 16:13:12 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:21:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:21:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:23:00 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:23:00 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:25:47 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:25:47 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:30:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:30:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:31:57 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:31:57 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:33:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:33:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:43:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:43:41 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:45:02 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:45:02 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 17:57:31 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 17:57:31 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 18:07:32 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 18:07:33 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 19:37:01 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 19:37:01 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 19:37:42 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 19:37:42 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 20:11:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 20:11:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/07 20:59:32 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/07 20:59:32 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/08 17:39:10 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:39:10 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/08 17:50:38 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:50:38 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:50:38 logger.go:29: INFO: Killing pid 7208, cmd clipse
+2026/02/08 17:50:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:50:39 logger.go:29: INFO: Killing pid 7252, cmd clipse
+2026/02/08 17:50:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:50:39 logger.go:29: INFO: Killing pid 7290, cmd clipse
+2026/02/08 17:50:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 17:50:39 logger.go:29: INFO: Killing pid 7330, cmd clipse
+2026/02/08 18:20:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/08 18:20:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/11 13:06:31 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/11 13:06:31 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/11 15:51:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/11 15:51:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/11 16:32:03 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/11 16:32:03 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/12 14:38:19 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/12 14:38:19 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/12 15:00:16 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/12 15:00:16 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/12 16:49:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/12 16:49:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/13 14:24:36 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 14:24:36 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/13 16:12:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 16:13:08 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 16:13:08 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/13 16:15:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 16:15:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/13 16:28:28 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 16:40:43 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/13 16:40:43 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/16 17:47:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/16 17:47:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/16 19:40:42 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/16 19:40:42 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/17 18:17:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/17 18:17:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/19 14:53:28 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/19 14:53:28 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/19 20:58:05 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/19 20:58:05 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/20 10:04:33 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/20 10:04:33 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/22 11:12:33 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/22 11:12:33 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/23 15:29:49 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/23 15:29:49 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/23 15:30:57 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/23 15:30:57 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/24 16:57:32 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/24 16:57:32 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/24 17:19:34 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/24 17:19:34 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/25 18:29:07 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/25 18:29:07 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/26 15:30:00 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/26 15:30:00 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/02/28 10:51:28 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/02/28 10:51:28 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/01 10:23:07 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/01 10:23:07 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/03 11:57:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/03 11:57:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/03 12:01:34 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/03 12:01:34 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/04 12:31:23 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/04 12:31:23 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/05 21:08:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/05 21:08:39 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/05 21:10:53 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/05 21:10:53 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/06 09:16:46 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/06 09:16:46 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/06 17:23:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/06 17:23:41 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/07 11:10:23 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/07 11:10:23 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/10 15:06:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/10 15:06:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/10 18:13:37 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/10 18:13:37 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/11 21:01:23 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/11 21:01:23 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/13 21:33:35 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/13 21:33:35 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/13 22:34:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/13 22:34:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/14 13:06:12 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/14 13:06:12 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/15 17:28:29 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/15 17:28:29 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/15 17:36:46 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/15 17:36:46 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/16 18:12:31 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/16 18:12:31 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/17 16:50:43 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/17 16:50:43 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/18 14:00:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/18 14:00:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/19 16:09:35 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/19 16:09:35 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/20 16:54:34 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/20 16:54:34 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/21 14:13:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/21 14:13:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/21 16:40:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/21 16:40:51 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/23 18:09:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/23 18:09:51 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/24 14:27:05 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/24 14:27:05 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/25 11:15:57 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/25 11:15:57 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/28 19:19:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/28 19:19:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/28 19:26:42 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/28 19:26:42 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/28 19:31:03 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/28 19:31:03 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/28 19:33:16 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/28 19:33:16 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/28 19:33:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/28 19:33:51 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/30 13:39:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/30 13:39:09 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/03/31 19:16:14 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/03/31 19:16:14 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/01 16:30:34 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/01 16:30:34 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/11 16:21:58 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/11 16:21:58 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/11 17:00:43 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/11 17:00:43 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/11 17:13:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/11 17:13:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/11 17:17:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/11 17:17:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/11 17:24:29 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/11 17:24:29 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/13 17:59:44 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/13 17:59:44 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/16 18:46:53 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/16 18:46:53 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/18 19:19:47 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/18 19:19:47 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/19 13:42:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/19 13:42:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/19 13:51:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/19 13:51:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/19 14:01:01 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/19 14:07:10 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/19 14:07:10 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/20 11:19:45 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/20 11:19:45 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/23 10:22:14 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/23 10:22:14 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/24 15:07:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/24 15:07:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/27 09:14:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/27 09:14:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/27 10:00:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/27 10:00:41 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/04/30 10:26:49 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/04/30 10:26:49 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/01 17:30:55 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/01 17:30:55 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/02 18:36:01 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/02 18:36:01 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/06 18:31:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/06 18:31:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/06 19:12:43 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/06 19:12:43 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/08 12:37:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/08 12:37:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/08 13:24:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/08 13:24:51 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/08 16:27:45 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/08 16:27:45 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/08 17:04:01 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/08 17:04:01 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/08 18:47:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/08 18:47:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/11 10:09:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/11 10:09:39 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/11 10:33:28 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/11 10:33:28 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/11 10:45:48 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/11 10:45:48 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 11:36:02 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 11:36:02 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:01:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:01:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:18:03 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:18:03 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:20:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:20:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:25:07 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:25:07 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:26:57 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:26:57 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/12 12:32:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/12 12:32:41 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/13 10:24:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/13 10:24:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/13 10:39:40 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/13 10:39:40 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/13 11:14:30 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/13 11:14:30 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/14 11:43:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/14 11:43:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/14 12:30:06 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/14 12:30:06 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/15 17:07:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/15 17:07:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/20 16:18:34 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/20 16:18:34 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/20 16:23:31 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/20 16:23:31 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/21 11:54:47 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/21 11:54:47 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/21 16:46:32 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/21 16:46:32 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 14:04:12 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 14:04:12 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 14:15:23 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 14:15:23 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 14:18:22 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 14:18:22 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 14:24:13 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 14:24:13 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 14:29:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 14:29:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 15:09:38 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 15:09:38 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 18:33:54 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 18:33:54 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 19:01:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 19:01:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/22 19:21:59 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/22 19:21:59 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/23 18:22:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/23 18:22:39 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/23 19:13:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/23 19:13:09 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/23 19:14:18 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/23 19:14:18 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/23 19:15:00 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/23 19:15:00 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/23 19:16:00 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/23 19:16:00 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/24 18:37:53 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/24 18:37:53 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/24 18:41:01 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/24 18:41:01 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/24 18:49:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/24 18:49:25 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/25 17:25:54 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/25 17:25:54 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/26 18:11:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/26 18:11:09 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/26 18:11:52 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/26 18:11:52 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/27 17:11:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/27 17:11:27 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/28 17:12:33 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/28 17:12:33 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/28 17:59:38 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/28 17:59:38 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/29 09:35:08 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/29 09:35:08 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/05/29 09:37:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/05/29 09:37:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/01 12:25:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/01 12:25:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/02 16:45:36 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/02 16:45:36 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/02 18:15:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/02 18:15:24 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/04 18:34:35 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/04 18:34:35 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/04 18:37:40 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/04 18:37:40 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/05 18:42:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/05 18:42:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/06 18:49:56 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/06 18:49:56 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/08 15:22:35 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/08 15:22:35 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/08 16:14:49 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/09 15:55:33 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/09 15:55:33 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/10 15:47:20 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/10 15:47:20 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/10 15:54:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/10 19:01:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/10 19:34:26 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/10 19:34:26 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/11 16:33:18 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/11 16:33:18 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/12 17:41:02 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 17:41:02 logger.go:21: ERROR: exec: "wl-paste": executable file not found in $PATH
+2026/06/12 17:51:45 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 17:51:53 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:05:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:05:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:05:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:05:27 logger.go:37: WARN: Failed to get active window on Wayland: no suitable tool found (Hyprctl, Wlrctl)
+2026/06/12 18:05:27 logger.go:37: WARN: Failed to get active window on Wayland: no suitable tool found (Hyprctl, Wlrctl)
+2026/06/12 18:06:02 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:04 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:09 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:11 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:13 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:16 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:18 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:27 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:28 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:29 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:39 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:06:43 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:08:37 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:33:41 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:33:47 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:37:42 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:40:50 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:40:50 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:40:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:40:51 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:41:24 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:41:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:41:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:41:25 logger.go:29: INFO: CUSTOM THEME DISABLED
+2026/06/12 18:41:25 logger.go:29: INFO: CUSTOM THEME DISABLED

@@ -1,0 +1,127 @@
+* {
+    font-family: JetBrainsMonoNerdFont, 
+    Font Awesome, 
+    Roboto, 
+    Helvetica, 
+    Arial, 
+    sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+window#waybar {
+    background-color: transparent;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+  border: none;
+}
+
+window#waybar.empty #workspaces.tb {
+  background-color: transparent;
+  border: none;
+}
+
+tooltip {
+  background: rgba(0, 46, 51, 0.9);
+  border: 2px  solid rgba(60,230,250,1);
+}
+
+/* you can set a style on hover for any module like this */
+
+#workspaces,
+#clock,
+#hardware,
+#apps,
+#window,
+#custom-launcher,
+#taskbar,
+#custom-pacman,
+#custom-muysua,
+#gamemode,
+#control,
+#energy,
+#tray,
+#language {
+    padding:0 8px;
+    background: rgba(0, 46, 51, 0.6);
+    border: 2px solid rgba(60,230,250,1);
+}
+
+#tray menu,
+menu {
+    background: rgba(0, 46, 51, 0.9);
+    border: 2px  solid rgba(60,230,250,1);
+}
+
+#cpu,
+#memory,
+#temperature,
+#idle_inhibitor,
+#power-profiles-daemon,
+#network,
+#pulseaudio,
+#custom-notification {
+    padding: 0 8px;
+}
+
+#workspaces.ws1 button {
+    border: transparent;
+    background: transparent;
+}
+
+#workspaces.ws1 button.active {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.ws1 button:hover {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.ws2 button {
+    border: transparent;
+    background: transparent;
+}
+
+#workspaces.ws2 button.active {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.ws2 button:hover {
+    border: transparent;
+    border-radius: 999px;
+    box-shadow: 0px 0px 8px 4px #64727D inset;
+}
+
+#workspaces.tb button {
+    border: transparent;
+    background: transparent;
+}
+
+#workspaces.tb button.active {
+    border: transparent;
+    background: transparent;
+    box-shadow: transparent
+}
+
+#workspaces.tb button:hover {
+    border: transparent;
+    background: transparent;
+    box-shadow: transparent
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
