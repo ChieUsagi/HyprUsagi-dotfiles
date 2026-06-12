@@ -19,7 +19,7 @@ HyprUsagi - Dotfiles
     `/etc/default/grub`
     
     ````
-    grub-mkconfig /boot/grub/grub.cfg
+    grub-mkconfig -o /boot/grub/grub.cfg
     ````
   * 
     `/etc/sudoers`
@@ -129,7 +129,7 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts noto-fonts-cjk ttf-jetbrains-mono-nerd swww nwg-drawer clipse hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib reflector zram-generator gamescope qpwgraph appimagelauncher 
+   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts noto-fonts-cjk ttf-jetbrains-mono-nerd swww nwg-drawer clipse wl-clipboard hypridle hyprlock flameshot power-profiles-daemon pavucontrol gamemode pacman-contrib pacman-update reflector zram-generator gamescope qpwgraph appimagelauncher 
    ````
 
    ````
