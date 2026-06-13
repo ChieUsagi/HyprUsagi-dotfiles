@@ -34,7 +34,7 @@ HyprUsagi - Dotfiles
   * Paquetes basicos:
 
     ````
-    sudo pacman -S firefox kitty zsh git curl fastfetch flatpack plymouth haruna
+    sudo pacman -S firefox kitty zsh git curl fastfetch flatpack plymouth
     ````
 
   * Chaotic AUR:
@@ -129,7 +129,7 @@ HyprUsagi - Dotfiles
 ## Paquetes necesarios
  
    ````
-   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts noto-fonts-cjk ttf-jetbrains-mono-nerd swww nwg-drawer clipse wl-clipboard hypridle hyprlock flameshot power-profiles-daemon pavucontrol  pacman-contrib pacman-update reflector zram-generator gamemode gamescope qpwgraph appimagelauncher 
+   sudo pacman -S waybar swaync swayosd polkit-gnome noto-fonts noto-fonts-cjk ttf-jetbrains-mono-nerd swww nwg-drawer clipse wl-clipboard hypridle hyprlock flameshot power-profiles-daemon pavucontrol  pacman-contrib pacman-update reflector zram-generator gamemode gamescope qpwgraph appimagelauncher pear-desktop haruna
    ````
 
    ````
