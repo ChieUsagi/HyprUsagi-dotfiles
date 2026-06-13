@@ -34,7 +34,7 @@ HyprUsagi - Dotfiles
   * Paquetes basicos:
 
     ````
-    sudo pacman -S firefox kitty zsh git curl fastfetch flatpack plymouth
+    sudo pacman -S firefox kitty zsh git curl fastfetch flatpack plymouth haruna
     ````
 
   * Chaotic AUR:
