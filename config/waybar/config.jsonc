@@ -81,7 +81,7 @@
         "interval": 3600,                     
         "exec": "checkupdates | wc -l",       
         "exec-if": "exit 0",                  
-        "on-click": "kitty --class updates arch-update",
+        "on-click": "kitty --class updates ~/.config/hypr/update.sh",
         "on-click-right": "kitty --class updates ~/.config/hypr/mirrorlist.sh",
         "tooltip": false
     },
